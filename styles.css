@@ -1,0 +1,5 @@
+/* 클리너 활성화 시 플로팅 영역 숨김 */
+.naver-cleaner-active #floating_area_header,
+.naver-cleaner-active #floating_bottom {
+  display: none !important;
+}
